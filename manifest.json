@@ -1,6 +1,6 @@
 {
-  "version": "4.0",
-  "package_url": "https://github.com/kadogamer6767-eng/NOVA-OS-Updates/releases/download/v4.0/NOVA_OS_v4_0_OTA.zip",
-  "sha256": "45f582b088721a39598b53e5061533c8168cfb510f4da40e45cc7b8f9ec5e92d",
-  "notes": "NOVA OS 4.0 surumu yayinlandi!"
+  "version": "4.1",
+  "package_url": "https://github.com/kadogamer6767-eng/NOVA-OS-Updates/releases/download/v4.0/NOVA_OS_v4_1_OTA.zip",
+  "sha256": "cc97aa471d734253660ed70e889b784e8b7055e642f6cee2af0cee29558b67de",
+  "notes": "NOVA OS 4.1 surumu yayinlandi!"
 }
